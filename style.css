@@ -1,0 +1,12 @@
+#hdn{
+ text-align: center;
+ background-color:gray;
+}
+input[type="text"]{
+    background-color: burlywood;
+}
+input[type="button"]{
+    width:100%;
+    border:2px solid rgba(0, 0, 0, 0.46);
+}
+
